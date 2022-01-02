@@ -1,0 +1,7 @@
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\bin\Debug\CompanyOrderApp.exe.config
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\bin\Debug\CompanyOrderApp.exe
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\bin\Debug\CompanyOrderApp.pdb
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\obj\Debug\CompanyOrderApp.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\obj\Debug\CompanyOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\obj\Debug\CompanyOrderApp.exe
+C:\Users\nikit\OneDrive\Desktop\CompanyOrderApp\CompanyOrderApp\obj\Debug\CompanyOrderApp.pdb
